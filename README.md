@@ -7,7 +7,8 @@
     Wellcome Centre for Anti-Infectives Research
     School of Life Sciences, University of Dundee
 
-The Jupyter notebooks count_oligo.ipynb was used to count the subsequences in the Whole GEnome Sequence (WGS) samples
+- The Jupyter notebooks count_oligo.ipynb was used to count the subsequences in the Whole Genome Sequence (WGS) samples
+- The folder OVarFlow contains the script for the variant calling pipeline
 
 ## 
 
