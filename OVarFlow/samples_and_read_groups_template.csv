@@ -1,0 +1,13 @@
+Reference Sequence:,{genome}.fa.gz
+Reference Annotation:,{genome}.sorted.gff
+
+Min sequence length:,2000
+
+old gvcf to include:,
+
+forward reads,reverse reads,ID,PL - plattform technology,CN - sequencing center,LB - library name,SM - uniq sample name
+FCH5YL7CCX2_L2_wHAXPI122670-47_R1.fastq.gz,FCH5YL7CCX2_L2_wHAXPI122670-47_R2.fastq.gz,id_WT,illumina,ENA,lib_WT,AmbWT
+FCH5YL7CCX2_L2_wHAXPI122614-48_R1.fastq.gz,FCH5YL7CCX2_L2_wHAXPI122614-48_R2.fastq.gz,id_R1,illumina,ENA,lib_R1,AmbR1
+FCH5YL7CCX2_L2_wHAXPI122603-50_R1.fastq.gz,FCH5YL7CCX2_L2_wHAXPI122603-50_R2.fastq.gz,id_R2,illumina,ENA,lib_R2,AmbR2
+FCH5YL7CCX2_L3_wHAXPI122667-51_R1.fastq.gz,FCH5YL7CCX2_L3_wHAXPI122667-51_R2.fastq.gz,id_R3,illumina,ENA,lib_R3,AmbR3
+FCH5YL7CCX2_L2_wHAXPI122666-52_R1.fastq.gz,FCH5YL7CCX2_L2_wHAXPI122666-52_R2.fastq.gz,id_R5,illumina,ENA,lib_R5,AmbR5
