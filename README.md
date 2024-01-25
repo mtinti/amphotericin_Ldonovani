@@ -8,5 +8,5 @@
     School of Life Sciences, University of Dundee
 
 The Jupyter notebooks
-- Count
+- count_oligo.ipynb was used to count the subsequences in the Whole GEnome Sequence (WGS) samples
 
