@@ -1,4 +1,4 @@
-[![DOI](placeholder)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10567623.svg)](https://doi.org/10.5281/zenodo.10567623)
 
 ![wcar image](wcar.png)
 # Amphotericin b mode of action
